@@ -1,0 +1,5 @@
+TA6586_Motor	KEYWORD1
+drive	KEYWORD2
+brake	KEYWORD2
+coast	KEYWORD2
+begin	KEYWORD2
