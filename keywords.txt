@@ -1,5 +1,8 @@
-TA6586_Motor	KEYWORD1
-drive	KEYWORD2
-brake	KEYWORD2
-coast	KEYWORD2
-begin	KEYWORD2
+FastAPIGeneric	KEYWORD1
+MQTTGeneric	KEYWORD1
+IoTProtocolOrchestrator	KEYWORD1
+postJSON	KEYWORD2
+update	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+run	KEYWORD2
